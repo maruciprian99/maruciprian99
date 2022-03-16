@@ -1,7 +1,7 @@
 - 👋 Hi, Maru Ionut Ciprian
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning  Unity/Blender/C#
-- 💞️ I’m looking to collaborate on Game Development/ Junior Java Developer/ Software Engineer Internship/ C# Developer/ Software Engineer/C++ Junior Developer
+- 💞️ I’m looking to collaborate on Game Development/  Software Engineer Internship/ C# Developer/ Software Engineer/C++ Junior Developer
 - 📫 How to reach me:  maruciprian99@gmail.com
 
 <!---
