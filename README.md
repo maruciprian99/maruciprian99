@@ -3,22 +3,27 @@
 - 🌱Also, I have:
 
 • Knowledges in programming languages: 
- - Python(medium -currently working with)
- - C/C++ (medium)
- - C# & Unity (learning by myself to develop my own project game)
+ 
+ - Python(medium to advanced on Data Engineering & App Developments -currently working with)
+ -SQL
+ - C# (medium) /C++ (medium) 
  - Linux (OS)
-• Apps, engines, tools, technologies experience: 
+• Apps, engines, tools, technologies,frameworks,warehouses experience:
+ -Snowflake, Azure
+ -Django
+ -Bootstrap, HTML, CSS, Heroku deployment
  -Unity
  - Jupyter
- - VS
- - PyCharm
  - API
+ -PowerBI
  - A bit of experience in modelling 3D using Blender
+• Playing around when its possible to create Machine Learning alghoritms and AI tools to automatize tasks.
 • Coding experience with algorithms and data structures.
+• Data Analytics, Data Engineering & BI analytics & forecasting
 • Good computer skills.
 • Experience in developing projects.
 
-- 💞️ I’m looking to collaborate on Game Development/  Software Engineer Internship/ C# Developer/ Software Engineer/C++ Junior Developer
+
 - 📫 How to reach me:  maruciprian99@gmail.com
 
 <!---
