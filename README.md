@@ -1,5 +1,5 @@
-- 👋 Hi, Maru Ionut Ciprian
-- 👀 I’m interested in Game Development
+- 👋 Hi, My name is Maru Ionut Ciprian
+- 👀 I’m interested in all about software and data
 - 🌱Also, I have:
 
 • Knowledges in programming languages: 
