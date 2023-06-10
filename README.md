@@ -2,26 +2,37 @@
 - 👀 I’m interested in all about software and data
 - 🌱Also, I have:
 
+ Wish you a wonderful day! 😃
+
+https://ciprianmaru.com/
+
+Very fascinated about computers, technology, challenges.
+Also, I have:
+
 • Knowledges in programming languages: 
  
  - Python(medium to advanced on Data Engineering & App Developments -currently working with)
  -SQL
- - C# (medium) /C++ (medium) 
+ - C# (medium)
+ -C++ (medium) 
+ -React, JavaScript 
+ -HTML, CSS ( used with Python Django for Web Development)
  - Linux (OS)
 • Apps, engines, tools, technologies,frameworks,warehouses experience:
- -Snowflake, Azure
+ -Snowflake, Azure , SQL Server
  -Django
- -Bootstrap, HTML, CSS, Heroku deployment
+ -Bootstrap,Heroku deployment
  -Unity
  - Jupyter
  - API
- -PowerBI
- - A bit of experience in modelling 3D using Blender
-• Playing around when its possible to create Machine Learning alghoritms and AI tools to automatize tasks.
+ -PowerBI / Excel / PowerQuery
+ - Experience in modelling 3D using Blender
+
+• Playing around when its possible to create Machine Learning alghoritms and AI tools to automate tasks.
 • Coding experience with algorithms and data structures.
-• Data Analytics, Data Engineering & BI analytics & forecasting
+• Data Analytics, Data Engineering & BI analytics
 • Good computer skills.
-• Experience in developing projects.
+• Experience in developing projects using agile methodology
 
 
 - 📫 How to reach me:  maruciprian99@gmail.com
