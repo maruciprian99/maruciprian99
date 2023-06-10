@@ -25,7 +25,7 @@
 
 
 - 📫 How to reach me:  maruciprian99@gmail.com
-
+            LinkedIN:   https://www.linkedin.com/in/ionut-ciprian-maru-bb55951b9/
 <!---
 maruciprian99/maruciprian99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
